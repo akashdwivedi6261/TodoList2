@@ -1,0 +1,20 @@
+.disp {
+  display: flex;
+  background-color: gold;
+  margin: 30px auto;
+  padding: 8px;
+  width: 20rem;
+}
+.disp > button {
+  width: 5rem;
+  margin: auto;
+}
+.align > input {
+  width: 10rem;
+  padding: 1rem;
+  border: 2px solid red;
+  font-size: 16px;
+}
+.align > button {
+  padding: 1.2rem;
+}
